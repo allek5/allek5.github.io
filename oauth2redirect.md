@@ -1,3 +1,3 @@
 ---
-redirect to: "net.beslic.cloudphoto://callback"
+redirect to: "cloudphoto.viewer://callback"
 ---
